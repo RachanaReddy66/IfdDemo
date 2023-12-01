@@ -1,0 +1,7 @@
+{
+  "name": "IfdDemo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
